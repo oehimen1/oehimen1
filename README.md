@@ -1,6 +1,5 @@
-## Hi there 👋
+![Header](https://raw.githubusercontent.com/oehimen1/oehimen1/readme_header.png "Header")
 
-[![Header](https://raw.githubusercontent.com/oehimen1/oehimen1/readme_header.png "Header")]
 
 <!--
 **oehimen1/oehimen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
