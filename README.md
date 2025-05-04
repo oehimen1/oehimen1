@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/oehimen1/<OWNER>/<OWNER>/Header.png "Header")]
+![Header](https://raw.githubusercontent.com/oehimen1/<OWNER>/<OWNER>/Header.png "Header")
 
 
 <!--
