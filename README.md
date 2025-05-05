@@ -3,13 +3,15 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Obehi Candace Ehimen, and I am a software engineer from the United States and currently working at Paramount- CBS Sports. 
-You can find me on [LinkedIn](https://www.linkedin.com/in/obehi-ehimen/). 
 
-<!-- - 🔭 I’m currently working on ... -->
+🎓 Graduated from Georgia State University with a Bachelor's in Computer Science <br />
+🔭 I’m currently working on becoming a better backend software engineer <br />
 🌱 I’m currently learning more of Typescript and GraphQL <br />
 😄 Pronouns: she/her <br />
 ⚡ Fun fact: I love journaling and learning more about sustainability <br />
-<!-- 👯 I’m looking to collaborate on ...-->
+🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/obehi-ehimen/). <br />
+👯 I’m looking to collaborate on projects that a greater purpose an positive impact <br />
+
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
 
