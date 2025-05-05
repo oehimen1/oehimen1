@@ -28,13 +28,12 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/obehi-ehimen/).
 
 
 
-
 # 📈 GitHub Stats
 <a href="https://github.com/oehimen1/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oehimen1&hide_progress=true&theme=moltack&card_width=300"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oehimen1&hide_progress=true&theme=moltack&card_width=200"/>
 </a>
 <a href="https://github.com/oehimen1/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=oehimen1&show_icons=true&theme=moltack&hide=stars&card_width=300"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=oehimen1&show_icons=true&theme=moltack&hide=stars&card_width=200"/>
 </a><br> </br>
 
 <a href="https://github.com/oehimen1/Hira-Beauty">
