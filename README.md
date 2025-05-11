@@ -10,7 +10,7 @@ My name is Obehi Candace Ehimen, and I am a software engineer from the United St
 😄 Pronouns: she/her <br />
 ⚡ Fun fact: I love journaling and learning more about sustainability <br />
 🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/obehi-ehimen/). <br />
-👯 I’m looking to collaborate on projects that a greater purpose and positive impact <br />
+👯 I’m looking to collaborate on projects that a have greater purpose and positive impact <br />
 
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
