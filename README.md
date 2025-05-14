@@ -9,7 +9,7 @@ My name is Obehi Candace Ehimen, and I am a software engineer from the United St
 🌱 I’m currently learning more of Typescript and GraphQL <br />
 😄 Pronouns: she/her <br />
 ⚡ Fun fact: I love journaling and learning more about sustainability <br />
-🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/obehi-ehimen/), or you can [email](candaceehimen@outlook.com) me. <br />
+🔗 You can find me on [LinkedIn](https://www.linkedin.com/in/obehi-ehimen/), or you can email me: candaceehimen@outlook.com. <br />
 👯 I’m looking to collaborate on projects that a have greater purpose and positive impact <br />
 
 <!-- 🤔 I’m looking for help with ... -->
